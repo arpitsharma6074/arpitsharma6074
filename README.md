@@ -12,7 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/_arpitsharma__" target="blank"><img src="https://img.shields.io/twitter/follow/_arpitsharma__?logo=twitter&style=for-the-badge" alt="_arpitsharma__" /></a> </p>
 -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
+
+---
 
 <h3 align="left">A passionate developer from India.</h3>
 
@@ -25,9 +27,9 @@
 - 📄 Know more about my professional journey [https://arpitsharma.vercel.app/static/media/Arpit_sharma_resume.fdd8d1b348e17e98ea52.pdf](https://arpitsharma.vercel.app/static/media/Arpit_sharma_resume.fdd8d1b348e17e98ea52.pdf)
   
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />-->
 
-
+-----
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - Git vs GitHub: A Beginner’s Guide to Version Control & Collaboration [https://medium.com/@arpitsharma6074/git-vs-github-a-beginners-guide-to-version-control-collaboration-4214ca6cb084](https://medium.com/@arpitsharma6074/git-vs-github-a-beginners-guide-to-version-control-collaboration-4214ca6cb084)
@@ -35,8 +37,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
+<!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />-->
+----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
