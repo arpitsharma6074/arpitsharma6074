@@ -18,7 +18,7 @@
 
 <h3 align="left">A passionate developer from India.</h3>
 
-- 👨‍💻 All of my projects are available at [https://arpitsharma.vercel.app/](https://arpitsharma.vercel.app/)
+- 👨‍💻 To know more about me visit [https://arpitsharma.vercel.app/](https://arpitsharma.vercel.app/)
 
 - 📝 I write articles on [https://medium.com/@arpitsharma6074](https://medium.com/@arpitsharma6074)
 
