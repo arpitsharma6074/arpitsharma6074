@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **arpitsharma06074@gmail.com**
 
-- 📄 Know more about my professional journey [https://arpitsharma.vercel.app/static/media/Arpit_sharma_resume.fdd8d1b348e17e98ea52.pdf](https://arpitsharma.vercel.app/static/media/Arpit_sharma_resume.fdd8d1b348e17e98ea52.pdf)
+- 📄 Know more about my professional journey [https://arpitsharma.vercel.app/static/media/Arpit_sharma_resume.a6a1e7d1378ad678a6f3.pdf](https://arpitsharma.vercel.app/static/media/Arpit_sharma_resume.a6a1e7d1378ad678a6f3.pdf)
   
 
 <!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />-->
