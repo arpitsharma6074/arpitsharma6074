@@ -3,7 +3,7 @@
 <!-- <h3 align="center">Aspiring Software Engineer | 🎓 B.Tech - Computer Science and Engineering @ PSIT Kanpur</h3> -->
 <p>I am a final-year Computer Science & Engineering student at Pranveer Singh Institute of Technology with a strong understanding of computer science fundamentals, systematic problem-solving, Java and web technologies.
 
-I am eagerly anticipating new opportunities and collaborations.</p>
+I am anticipating new opportunities and collaborations.</p>
 
 
 <!--
