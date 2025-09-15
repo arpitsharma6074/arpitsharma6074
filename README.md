@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Arpit Sharma</h1>
-<h3 align="center">Aspiring Software Engineer | 🎓 B.Tech - Computer Science and Engineering @ PSIT Kanpur</h3>
+<!-- <h3 align="center">Aspiring Software Engineer | 🎓 B.Tech - Computer Science and Engineering @ PSIT Kanpur</h3> -->
+<p>I am a final-year Computer Science & Engineering student at Pranveer Singh Institute of Technology with a strong understanding of computer science fundamentals, systematic problem-solving, Java and web technologies.
+
+I am eagerly anticipating new opportunities and collaborations.</p>
 
 
 <!--
@@ -23,10 +26,10 @@
 - 📝 I write articles on [https://medium.com/@arpitsharma6074](https://medium.com/@arpitsharma6074)
 
 - 📫 Reach me at **arpitsharma06074@gmail.com**
-
+<!--
 - 📄 Resume [https://arpitsharma.vercel.app/static/media/Arpit_sharma_resume.a6a1e7d1378ad678a6f3.pdf](https://arpitsharma.vercel.app/static/media/Arpit_sharma_resume.a6a1e7d1378ad678a6f3.pdf)
   
-
+-->
 <!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />-->
 
 -----
