@@ -33,7 +33,7 @@ I am anticipating new opportunities and collaborations.</p>
 <!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />-->
 
 -----
-### Blogs posts
+<!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START 
 - Git vs GitHub: A Beginner’s Guide to Version Control & Collaboration [https://medium.com/@arpitsharma6074/git-vs-github-a-beginners-guide-to-version-control-collaboration-4214ca6cb084](https://medium.com/@arpitsharma6074/git-vs-github-a-beginners-guide-to-version-control-collaboration-4214ca6cb084)
 - Understanding MongoDB [https://medium.com/@arpitsharma6074/mongodb-c3a56e459e95](https://medium.com/@arpitsharma6074/mongodb-c3a56e459e95)
