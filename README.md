@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Arpit Sharma</h1>
 <!-- <h3 align="center">Aspiring Software Engineer | 🎓 B.Tech - Computer Science and Engineering @ PSIT Kanpur</h3> -->
-<p>I am a final-year Computer Science & Engineering student at Pranveer Singh Institute of Technology with a strong understanding of computer science fundamentals, systematic problem-solving, Java and web technologies.
+<p>I am a Software Engineer at Coforge with a Bachelor's in Computer Science & Engineering from Pranveer Singh Institute of Technology. My core strengths include computer science fundamentals, systematic problem-solving, Java, and the .NET framework.
 
 I am anticipating new opportunities and collaborations.</p>
 
